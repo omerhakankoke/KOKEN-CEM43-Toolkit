@@ -1,0 +1,7 @@
+MIT License - Copyright (c) 2026 KOKEN
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software, to deal in the Software without restriction, including the
+rights to use, copy, modify, merge, publish, distribute, and sell copies.
+The above copyright notice shall be included in all copies.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

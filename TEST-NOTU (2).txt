@@ -1,0 +1,7 @@
+Tarih: 13.10.2026
+Bilgisayar: Windows 10 (Version 10.0.19045.4291) / Python: Python 3.12.1
+Komut: python cem43.py
+Görülen çıktı:
+DEMO: 4 nabiz x (42C, 300sn) = 10.0 dk CEM43
+Tek nabiz (42C,300sn) = 2.5 dk
+Sonuç: DOĞRULANDI
